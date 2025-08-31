@@ -4,7 +4,7 @@
 This project demonstrates a scalable, cloud-native data pipeline built on Amazon Web Services (AWS). It is designed to process both large historical datasets (batch processing) and live event data (real-time streaming) for a fictional e-commerce company. The processed data is then made available for analysis and visualization through an interactive Power BI dashboard.
 
 ## Architecture Diagram
-*(You can create a simple diagram using a tool like diagrams.net and upload it to your screenshots folder, then link it here!)*
+
 ![Architecture Diagram](screenshots/architecture.png)
 
 ## Tech Stack
