@@ -5,7 +5,7 @@ This project demonstrates a scalable, cloud-native data pipeline built on Amazon
 
 ## Architecture Diagram
 *(You can create a simple diagram using a tool like diagrams.net and upload it to your screenshots folder, then link it here!)*
-![Architecture Diagram](screenshots/architecture_diagram_placeholder.png) 
+![Architecture Diagram](screenshots/architecture.png)
 
 ## Tech Stack
 - **Cloud Provider:** AWS
