@@ -26,7 +26,7 @@ This project demonstrates a scalable, cloud-native data pipeline built on Amazon
 ## Dashboard Screenshot
 Here is a preview of the final Power BI dashboard.
 
-![Sales Dashboard](screenshots/dashboard.png)
+![Sales Dashboard](screenshots/dashboard.png.png)
 
 ## How to Run
 1. **Setup AWS Infrastructure:** Configure S3 buckets, Kinesis stream, Glue job, and Lambda function.
